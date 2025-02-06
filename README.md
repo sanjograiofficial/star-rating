@@ -1,0 +1,1 @@
+A star rating project made with react.
