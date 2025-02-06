@@ -5,6 +5,22 @@
   text-align: center;
 }
 
+.input{
+  padding: 10px;
+  margin: 10px;
+}
+label{
+  font-size: 1.3rem;
+}
+input{
+  font-size: 1.3rem;
+  padding: 5px;
+}
+
+button{
+  font-size: 1.3rem;
+  padding: 5px;
+}
 
 
 
